@@ -6,6 +6,10 @@ const test = [
     {
         Name: "Tomás",
         Age: 23
+    },
+    {
+        Name: "Santiago",
+        Age: 21
     }
 ];
 
